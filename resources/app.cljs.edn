@@ -1,0 +1,2 @@
+{:require  [watch-bug.app]
+ :init-fns [watch-bug.app/init]}
